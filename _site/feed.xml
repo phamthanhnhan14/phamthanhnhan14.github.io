@@ -1,44 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My DEMO website</title>
+    <title>Home</title>
     <description>My Github Page!</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>My Resume</title>
+        <title>Con đường Sự Nghiệp</title>
         <description>
-          My Resume - 
           
-
+          Khi đã và đang làm việc như là 1 system admin, “một nghề cao quý trong những nghề cao quý”, bạn sẽ dần được trải qua những mốc ghi dấu của con đường sự nghiệp của mình, 1 vài giây nhìn lại những nấc thang mà bạn đã vượt qua,...
         </description>
-        <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2017-12-19-my-resume/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-12-19-my-resume/</guid>
+        <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2017-12-20-Con-%C4%91%C6%B0%E1%BB%9Dng-s%E1%BB%B1-nghi%E1%BB%87p/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-12-20-Con-%C4%91%C6%B0%E1%BB%9Dng-s%E1%BB%B1-nghi%E1%BB%87p/</guid>
       </item>
     
       <item>
-        <title>Nhung Duc Tinh System Admin</title>
+        <title>Đức Tính Của System Admin</title>
         <description>
           
           Những đức tính cần có cho việc “sống còn” của 1 system admin Dấn thân vào với nghề system admin, cũng như bất kỳ 1 ngành nghề nào khác trong lĩnh vực công nghệ thông tin, bạn luôn phải đối diện với những áp lực, những khó khăn, làm thế...
         </description>
         <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2017-12-18-nhung-duc-tinh-system-admin/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-12-18-nhung-duc-tinh-system-admin/</guid>
-      </item>
-    
-      <item>
-        <title>First post!</title>
-        <description>
-          
-          This is my first post, how exciting!
-
-        </description>
-        <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-04-first-post/</guid>
+        <link>http://localhost:4000/2017-12-18-%C4%90%E1%BB%A9c-t%C3%ADnh-c%E1%BB%A7a-system-admin/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-12-18-%C4%90%E1%BB%A9c-t%C3%ADnh-c%E1%BB%A7a-system-admin/</guid>
       </item>
     
   </channel>

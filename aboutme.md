@@ -1,12 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Give me your hands!!!
 ---
 
 My name is Nhan Pham T..
-Welcome to my world!!!
+Do what I love, love what I do.
 
 ### my history
-
-Catch me if you can.
+Make your production system run faster, better and cheaper!!! With 24/7/365 online support, contact me if you need a person who keep your zoos!!!
