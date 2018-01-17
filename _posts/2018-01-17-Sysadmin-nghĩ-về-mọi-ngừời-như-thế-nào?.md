@@ -18,17 +18,17 @@ Designer
 
 Trong mắt bạn thì designer là những thành phần “chả biết gì” về hệ thống, và hiếm khi đụng chạm gì tới nhau. Nhìn designer lúc nào cũng sạch sẽ, sành điệu, xài toàn hàng hiệu cũng như có gu thẫm mỹ rất khác biệt. Họ chỉ gặp bạn khi không truy cập vào được hệ thống, không commit lên SVN/Git được hay đơn giản là cái hình của họ hiển thị màu không đúng.
 
-Còn gì tuyệt hơn khi được làm việc cùng với những bạn (nhất là nữ) xinh đẹp, dễ thương và có nhiều tài lẻ, nói chung với system admin, designer dùng để ngắm nhiều hơn là làm việc cùng !(https://s.w.org/images/core/emoji/2.3/svg/1f642.svg)
+Còn gì tuyệt hơn khi được làm việc cùng với những bạn (nhất là nữ) xinh đẹp, dễ thương và có nhiều tài lẻ, nói chung với system admin, designer dùng để ngắm nhiều hơn là làm việc cùng !
 
 Project Manager
 
-Đây là những tên tội phạm truy nã đích thực ( như hình vẽ), luôn có những áp lực được tạo ra bởi PM cho chúng ta. Khi hệ thống chạy tốt, họ chẳng thèm quan tâm đã làm gì, ở đâu, nhưng khi có incident hoặc wifi không vào được, họ sẽ là người tìm và xử lý chúng ta. !(https://s.w.org/images/core/emoji/2.3/svg/1f642.svg) Khi họ trao cho chúng ta nhiều quyền lực hơn thì lại càng áp lực hơn nữa, hệ thống vận hành không tốt, người đầu tiên bị bêu đầu là bạn, còn khi hệ thống tốt thì bạn chắc chắn không phải là người đầu tiên ( có khi quên mất bạn là ai !(https://s.w.org/images/core/emoji/2.3/svg/1f642.svg) j/k)
+Đây là những tên tội phạm truy nã đích thực ( như hình vẽ), luôn có những áp lực được tạo ra bởi PM cho chúng ta. Khi hệ thống chạy tốt, họ chẳng thèm quan tâm đã làm gì, ở đâu, nhưng khi có incident hoặc wifi không vào được, họ sẽ là người tìm và xử lý chúng ta. ! Khi họ trao cho chúng ta nhiều quyền lực hơn thì lại càng áp lực hơn nữa, hệ thống vận hành không tốt, người đầu tiên bị bêu đầu là bạn, còn khi hệ thống tốt thì bạn chắc chắn không phải là người đầu tiên ( có khi quên mất bạn là ai !(j/k)
 
-Làm việc với PM như chơi với cọp !(https://s.w.org/images/core/emoji/2.3/svg/1f642.svg) Thế là đủ
+Làm việc với PM như chơi với cọp ! Thế là đủ
 
 System Admin
 
-Đây là những tên đồng đội của chúng ta hàng ngày, muốn đi nhanh thì đi 1 mình, nhưng đi xa thì phải có đồng đôi. Điều đó luôn đúng và càng đúng khi chúng ta là những người system admin. Họ là những người làm thay việc chúng ta khi ta bận đi chơi với bạn gái, đi đá banh, hay sẵn sàng nhấc điện thoại lên lúc 2h sáng hoặc đang lên cơn sung trong nhà nghỉ. Đôi khi chúng ta hay cho rằng mình là Neo, nhưng thực sự thì không biết đúng hay không nữa! (https://s.w.org/images/core/emoji/2.3/svg/1f600.svg)
+Đây là những tên đồng đội của chúng ta hàng ngày, muốn đi nhanh thì đi 1 mình, nhưng đi xa thì phải có đồng đôi. Điều đó luôn đúng và càng đúng khi chúng ta là những người system admin. Họ là những người làm thay việc chúng ta khi ta bận đi chơi với bạn gái, đi đá banh, hay sẵn sàng nhấc điện thoại lên lúc 2h sáng hoặc đang lên cơn sung trong nhà nghỉ. Đôi khi chúng ta hay cho rằng mình là Neo, nhưng thực sự thì không biết đúng hay không nữa!
 
 Làm việc với nhau tốt là cách để tồn tại và phát triển trong môi trường hiện tại, nhưng sự cạnh tranh luôn xảy ra, nếu bạn không may phải làm việc 1 mình, thì chúc mừng bạn, vì chỉ có bản thân mình là đối thủ.
 
